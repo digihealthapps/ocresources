@@ -405,10 +405,10 @@
   <main>
     <section class="hero" id="top">
       <div class="chart-header">
-        <span>Organization<b>[Your Organization Name]</b></span>
-        <span>Prepared for<b>Members &amp; Chapter Leads</b></span>
-        <span>Focus<b>Equity across Design, Business &amp; Clinical Practice</b></span>
-        <span>Status<b>Living document — updated quarterly</b></span>
+        <span>Organization<b>Women in Healthcare</b></span>
+        <span>Prepared for<b>Members &amp; Chapter Leaders</b></span>
+        <span>Focus<b>Equity across Design, Architecture, Business, Clinical Practice, &amp; Public Health</b></span>
+        <span>Status<b>Living document: to be updated quarterly</b></span>
       </div>
 
       <div class="eyebrow">Member Resource Hub</div>
@@ -435,7 +435,7 @@
           <div class="pulse-stat"><b>16%</b><span>of AEC firms have a woman in the C-suite</span></div>
           <div class="pulse-stat"><b>27%</b><span>of architecture &amp; engineering roles held by women</span></div>
         </div>
-        <div class="pulse-source">In the built environment: U.S. Bureau of Labor Statistics; AIA Equity by Design survey — the drop-off from school to practice to leadership is the same pattern seen in clinical medicine, just steeper.</div>
+        <div class="pulse-source">In the built environment: U.S. Bureau of Labor Statistics; AIA Equity by Design survey: the drop-off from school to practice to leadership is the same pattern seen in clinical medicine, just steeper.</div>
       </div>
     </section>
 
@@ -445,7 +445,7 @@
         <span class="tab-chip" style="background:var(--rose)">Start Here</span>
         <h2>What's going on for you right now?</h2>
       </div>
-      <p class="lede">Pick the situation closest to yours. Each links to the section with the most relevant scripts and background.</p>
+      <p class="lede">Pick the situation that most closely matches yours for the most relevant scripts and background.</p>
 
       <div class="situation-grid">
         <div class="situation-card">
@@ -454,10 +454,10 @@
         </div>
         <div class="situation-card">
           <p class="q">"I want to pitch a mentorship or ERG program and need buy-in from leadership."</p>
-          <a href="#case">Go to Build the Case →</a>
+          <a href="#case">Go to Build a Case →</a>
         </div>
         <div class="situation-card">
-          <p class="q">"Something happened in a meeting and I don't know if it's actionable."</p>
+          <p class="q">"Something happened in a meeting and I'm not sure how to address it."</p>
           <a href="#rights">Go to Know Your Rights →</a>
         </div>
         <div class="situation-card">
@@ -465,11 +465,11 @@
           <a href="#allies">Go to Advocate for Others →</a>
         </div>
         <div class="situation-card">
-          <p class="q">"I need language I can actually use in the room, today."</p>
+          <p class="q">"I need language I can use to navigate workplace scenarios."</p>
           <a href="#templates">Go to Templates &amp; Scripts →</a>
         </div>
         <div class="situation-card">
-          <p class="q">"I want a community that already gets it."</p>
+          <p class="q">"I want to connect with my Women in Healthcare community."</p>
           <a href="#community">Go to Community →</a>
         </div>
       </div>
@@ -647,14 +647,14 @@
         <span class="tab-chip" style="background:var(--amber)">Case</span>
         <h2>Build the business case</h2>
       </div>
-      <p class="lede">Equity initiatives get funded when they're framed in the language leadership already uses: retention, patient outcomes, risk, and cost — alongside the moral case, not instead of it.</p>
+      <p class="lede">Equity initiatives get funded when they're presented using metrics that leadership already uses: retention, patient outcomes, risk, and cost.</p>
 
       <div class="res-list">
         <div class="res-item">
           <div class="res-type">Angle</div>
           <div class="res-body">
             <h3>Retention &amp; attrition cost</h3>
-            <p>Attrition among women in healthcare has plateaued rather than improved industry-wide, even as representation holds steady — a useful counter to "we already have enough women here." Pair a national stat with your own organization's exit-interview themes if you have access to them.</p>
+            <p>Attrition among women in healthcare has plateaued rather than improved industry-wide, even with current representation statistics. Pair a national stat with your own organization's trends if you have access to that data.</p>
           </div>
         </div>
         <div class="res-item">
@@ -699,7 +699,7 @@
           <div class="res-type">Federal</div>
           <div class="res-body">
             <h3>Equal Pay Act &amp; Title VII</h3>
-            <p>The Equal Pay Act prohibits sex-based pay differences for substantially equal work; Title VII of the Civil Rights Act prohibits broader employment discrimination based on sex, including pregnancy. The EEOC (eeoc.gov) is the federal agency that enforces both and accepts individual complaints.</p>
+            <p>The Equal Pay Act prohibits gender-based pay differences for substantially equal work; Title VII of the Civil Rights Act prohibits broader employment discrimination based on sex, including pregnancy. The EEOC (eeoc.gov) is the federal agency that enforces both and accepts individual complaints.</p>
             <a href="https://www.eeoc.gov/equal-pay-and-pay-transparency" target="_blank" rel="noopener">eeoc.gov — equal pay &amp; pay transparency →</a>
           </div>
         </div>
@@ -727,18 +727,18 @@
         <span class="tab-chip" style="background:var(--amber)">Tools</span>
         <h2>Templates &amp; scripts</h2>
       </div>
-      <p class="lede">Language you can adapt in five minutes, not draft from scratch under pressure.</p>
+      <p class="lede">Language you can adapt in just a few minutes.</p>
 
       <div class="template-grid">
         <div class="template-card">
           <span class="tag">Email</span>
           <h3>Requesting a pay equity review</h3>
-          <p>"I'd like to schedule time to review my compensation relative to [role/level] benchmarks. I've attached the data I'm using — happy to walk through it together."</p>
+          <p>"I'd like to schedule time to review my compensation as compared to [role/level] benchmarks. I've attached the data I'm using and I'm happy to walk through it together."</p>
         </div>
         <div class="template-card">
           <span class="tag">In the room</span>
           <h3>Redirecting credit</h3>
-          <p>"Building on what [name] raised a minute ago — I think that's exactly the direction worth pursuing." Said once, it's generous. Said consistently, it's a pattern people notice.</p>
+          <p>"Adding to what [name] mentioned a minute ago, I think that's a direction worth pursuing." Said once, it's generous. Said consistently, it's a pattern people notice.</p>
         </div>
         <div class="template-card">
           <span class="tag">1:1</span>
@@ -758,17 +758,17 @@
         <div class="template-card">
           <span class="tag">Documentation</span>
           <h3>Incident log format</h3>
-          <p>Date, what was said/done verbatim if possible, who else was present, and what you did next. A running log — kept privately, outside work systems — is often the difference between "I feel like" and "here's what happened."</p>
+          <p>Date, what was said/done verbatim if possible, who else was present, and what you did next. A private log — kept outside work systems — can make a significant difference between "I feel like" and "here's what happened."</p>
         </div>
         <div class="template-card">
           <span class="tag">Design / BD</span>
           <h3>Requesting a seat on the pitch team</h3>
-          <p>"I've led the design work on [project/account] from the start — I'd like to be in the room for the client pitch, not just supporting it beforehand."</p>
+          <p>"I've led the design work on [project/account] from the start and I'd like to be in the room for the client pitch, not just supporting it beforehand."</p>
         </div>
         <div class="template-card">
           <span class="tag">Design / BD</span>
           <h3>Pushing back on scope creep or value engineering</h3>
-          <p>"This change affects [outcome the client cares about] — I want to flag it now rather than have it surface at handoff. Here's what I'd propose instead."</p>
+          <p>"This change affects [outcome the client cares about] and I want to flag it now before it becomes a problem later. Here's what I'd propose instead."</p>
         </div>
       </div>
     </section>
@@ -828,8 +828,8 @@
           <a href="https://www.crewnetwork.org" target="_blank" rel="noopener">crewnetwork.org →</a>
         </div>
         <div class="org-card">
-          <h3>[Your chapter / local ERG]</h3>
-          <p>Add your own organization's internal groups, peer pods, or regional chapters here.</p>
+          <h3>[Women in Healthcare</h3>
+          <p>YourMembership.</p>
         </div>
       </div>
     </section>
@@ -840,7 +840,7 @@
         <span class="tab-chip" style="background:var(--ink)">Learn</span>
         <h2>Learn more</h2>
       </div>
-      <p class="lede">For the members who want to go deeper on their own time.</p>
+      <p class="lede">Want to go deeper?</p>
 
       <div class="shelf">
         <div class="shelf-item">
